@@ -17,4 +17,4 @@ print("List in descending order is:",ex)
 tp=tuple(ex)
 print(tp)
 del ex
-print(ex)    #This will display empty list!!
+print(ex)    #This will display error that list doesnt exists!!
