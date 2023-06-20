@@ -16,5 +16,5 @@ ex.reverse()
 print("List in descending order is:",ex)
 tp=tuple(ex)
 print(tp)
-ex.clear()
+del ex
 print(ex)    #This will display empty list!!
